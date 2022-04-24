@@ -1,5 +1,15 @@
-# Desafio de Projeto sobre GIT/GitHub
-Repositório criado para o desafio de projeto DIO
+# Projeto de estudo C#/DotNet :man_student:
+
+
+
+- Materiais de estudo de C#
+
+- exercícios de logica usando C#
+
+  
+
+
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Tour pelo C# Microsoft docs.](https://docs.m
