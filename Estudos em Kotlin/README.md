@@ -1,5 +1,16 @@
-# Desafio de Projeto sobre GIT/GitHub
-Repositório criado para o desafio de projeto DIO
+# Projeto de estudo de Kotlin :man_student:
+
+
+
+- Materiais de estudo de Kotlin
+
+- exercícios 
+
+
+  
+
+
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Sintaxe básica Kotlin](https://kotlinlang.org/docs/basic-syntax.html)
